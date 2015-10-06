@@ -1,0 +1,2 @@
+# kurnedi
+tugas1
